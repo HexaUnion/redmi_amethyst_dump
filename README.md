@@ -1,0 +1,14 @@
+# missi-user 15 AQ3A.240912.001 OS2.0.208.0.VOPMIXM release-keys
+- manufacturer: xiaomi
+- platform: volcano
+- codename: amethyst
+- flavor: missi-user
+- release: 15
+- id: AQ3A.240912.001
+- incremental: OS2.0.208.0.VOPMIXM
+- tags: release-keys
+- fingerprint: Redmi/amethyst_in/amethyst:14/UKQ1.240624.001/OS2.0.208.0.VOPMIXM:user/release-keys
+- is_ab: true
+- brand: Redmi
+- branch: missi-user-15-AQ3A.240912.001-OS2.0.208.0.VOPMIXM-release-keys
+- repo: redmi_amethyst_dump
