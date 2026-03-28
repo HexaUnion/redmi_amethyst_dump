@@ -1,0 +1,23 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.bootimage.brand=Redmi
+ro.product.bootimage.device=amethyst
+ro.product.bootimage.manufacturer=Xiaomi
+ro.product.bootimage.model=24115RA8EG
+ro.product.bootimage.name=amethyst_global
+ro.product.bootimage.cert=24115RA8EG
+ro.product.bootimage.marketname=Redmi Note 14 Pro+ 5G
+ro.bootimage.build.date=Tue Mar 10 14:08:12 UTC 2026
+ro.bootimage.build.date.utc=1773151692
+ro.bootimage.build.fingerprint=Redmi/amethyst_global/amethyst:14/UKQ1.240624.001/OS3.0.3.0.WOPINXM:user/release-keys
+ro.bootimage.build.id=UKQ1.240624.001
+ro.bootimage.build.tags=release-keys
+ro.bootimage.build.type=user
+ro.bootimage.build.version.incremental=OS3.0.3.0.WOPINXM
+ro.bootimage.build.version.release=14
+ro.bootimage.build.version.release_or_codename=14
+ro.bootimage.build.version.sdk=34
+# end of file
+
